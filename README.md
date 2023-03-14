@@ -1,7 +1,8 @@
 # Presentación
 
-- Escriban presentación sobre ustedes.
-- Suban la presentación a Git.
+Buen día, me llamo Mauro y estudio Programación informática en la UNSAM
+
+
 - Suban una foto.
 - Suban los nuevos cambios.
 - Compartan el link por discord
