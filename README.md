@@ -3,23 +3,16 @@
 Buen día, me llamo Mauro y estudio Programación informática en la UNSAM
 
 
-- Suban una foto.
-- Suban los nuevos cambios.
-- Compartan el link por discord
-- Hagan algun comentario sobre el repositorio de algun otro compañere. Al menos 2.
-
-Ya saben usar git!
-
-
-## Estudiante: Nombre estudiante
+## Estudiante: Mauro Donnantuoni
 
 Descripción
 
 Foto de mi persona:
 
-![d](https://media.istockphoto.com/id/1423183219/es/vector/la-pelusa-de-diente-de-le%C3%B3n-vuela-lejos-del-viento.jpg?s=612x612&w=0&k=20&c=nSMyODf20H4HZxTyGNmsbY1FNsnU0irg0d-4XI94ZsM=)
+![hugh](https://user-images.githubusercontent.com/87683709/225167801-d2e48f05-56c0-445e-9ac8-280950b324b8.jpeg)
 
-Diente de Leon
+
+Yo
 
 ------
 
